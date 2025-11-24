@@ -1,5 +1,5 @@
 ---
-title: My Docs
+title: My Page
 ---
 
 <link rel="stylesheet" href="/assets/syntax.css">

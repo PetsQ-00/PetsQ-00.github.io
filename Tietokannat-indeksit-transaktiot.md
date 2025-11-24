@@ -1,4 +1,14 @@
 Tietokannat, Indeksit ja Transaktiot
+Sisällysluettelo
+Dia 1: Indeksointi
+Dia 2: Indeksointiesimerkki
+Dia 3: Indeksin luonti
+Dia 4: Clustered / Non-clustered / Paksu indeksit
+Dia 5: Transaktiot - ACID
+Dia 6: Transaktion / tapahtuman hallinta
+Dia 7: Esimerkit
+Dia 8: Milloin ja miten käyttää indeksejä?
+Dia 9: ACID
 Dia 1: Indeksointi
 Indeksejä käytetään, jotta kyselyt voivat löytää taulujen tiedot nopeasti. Indeksejä luodaan tauluihin ja näkymiin.
 
